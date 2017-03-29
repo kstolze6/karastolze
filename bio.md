@@ -8,7 +8,7 @@ Education: Bachelor's degree in Computer Science (to be completed December 2017)
 
 Skills:
 * Most experience in java coding
-* Minimal experience with html, python, c#/c++, MatLAB, Android Studio
+* Minimal experience with html, python, c#/c++, MatLAB, Android Studio, Unity
 
 Leadership: 
 * Volunteered for the last 5 years as a mentor for Community Bible Church youth group.

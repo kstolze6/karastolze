@@ -5,7 +5,10 @@ layout: default
 ________________________________________
 
 
-kara.png
+* Computer Science student at the Georgia Institute of Technology
+* Threads in Devices and Media, special interest in app development
+* Graduating December 2017
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
